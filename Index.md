@@ -1,0 +1,16 @@
+- Basics
+- Recursion
+- Maths and Bitmasking
+- Binary Seach
+- Sliding Window / Two Pointers
+- Priority Queues
+- String Algorithm
+- Range Queries
+- Arrays
+- Trees
+- Graphs
+- DP
+- Greedy
+- Stack
+- Linked List
+- Sorting
